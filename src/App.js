@@ -8,6 +8,9 @@ function App() {
         Hola Mundo este sera mi primer proyecto multiplataforma,
         este es un cambio para probar el git pull, eso quiere decir que ya funciona
       </header>
+      <body>
+        Hola mundo como estan.
+      </body>
     </div>
   );
 }
