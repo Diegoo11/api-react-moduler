@@ -10,6 +10,7 @@ function App() {
       </header>
       <body>
         Hola mundo como estan.
+        xd
       </body>
     </div>
   );
