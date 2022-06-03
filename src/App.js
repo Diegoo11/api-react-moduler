@@ -11,6 +11,11 @@ function App() {
       <body>
         Hola mundo como estan.
         xd
+        esque esta cosa funciona increible
+        bueno eso seria todo estare biendo video de tu web a jucio
+        para tener inspiracion de lo que quiero crear y de que manera lo
+        quiero crear
+        bueno es es todo
       </body>
     </div>
   );
